@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: naily-news
+  config:
+    import:
+    - classpath:boards.yaml

@@ -1,0 +1,18 @@
+boards:
+  boards:
+    - boardName: "general"
+      icon: "https://www.google.com/s2/favicons?domain_url=www.google.com"
+      feeds:
+        - feedName: "Meduza"
+          url: "https://meduza.io/rss/all"
+        - feedName: "BBC News"
+          url: "http://feeds.bbci.co.uk/news/rss.xml"
+    - boardName: "tech"
+      icon: "https://www.google.com/s2/favicons?domain_url=www.google.com"
+      feeds:
+        - feedName: "Hacker News"
+          url: "https://news.ycombinator.com/rss"
+        - feedName: "TechCrunch"
+          url: "http://feeds.feedburner.com/TechCrunch/"
+        - feedName: "The Verge"
+          url: "http://www.theverge.com/rss/index.xml"
